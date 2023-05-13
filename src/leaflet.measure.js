@@ -14,8 +14,8 @@
     }
 })(function (L) {
     L.Measure = {
-        linearMeasurement: "Distance measurement",
-        areaMeasurement: "Area measurement",
+        linearMeasurement: "Дистанцiя",
+        areaMeasurement: "Площа",
         start: "Start",
         meter: "m",
         meterDecimals: 0,
